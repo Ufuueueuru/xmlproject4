@@ -1,9 +1,10 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-<xs:element name="Hotels">
-	<xs:complexType>
-		<xs:element nam="Hotel" />
-	</xs:complexType>
-</xs:element>
+<xsd:element name="Hotels">
+	<xsd:complexType>
+		<xsd:element nam="Hotel" />
+	</xsd:complexType>
+</xsd:element>
 
-</xs:schema>
+</xsd:schema>
