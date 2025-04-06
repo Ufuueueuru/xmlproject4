@@ -70,7 +70,7 @@
 		</Address>
 	</Hotel>
 	<Hotel Rating="4.2">
-		<Name>Hampton Inn & Suites</Name>
+		<Name>Hampton Inn &amp; Suites</Name>
 		<Phone>480-941-3441</Phone>
 		<Address NearstAirport="Sky Harbor">
 			<Number>1415</Number>
