@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 <Hotel>
-	<Hotel Rating=4.2>
+	<Hotel Rating="4.2">
 		<Name>Westin</Name>
 		<Address NearstAirport="Sky Harbor">
 			<Number>11</Number>
