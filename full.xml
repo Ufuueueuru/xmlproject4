@@ -13,15 +13,104 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-	<Hotel>
-		<Name>Westin2</Name>
-		<Phone>480-968-8885</Phone>
+	<Hotel Rating="3.4">
+		<Name>Extended Stay America</Name>
+		<Phone>480-752-2266</Phone>
 		<Address NearstAirport="Sky Harbor">
-			<Number>11</Number>
-			<Street>E. 7th St</Street>
+			<Number>1920</Number>
+			<Street>E Isabella Ave</Street>
+			<City>Mesa</City>
+			<State>AZ</State>
+			<Zip>85202</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.3">
+		<Name>DoubleTree</Name>
+		<Phone>480-833-5555</Phone>
+		<Phone>800-222-8733</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>1011</Number>
+			<Street>W Holmes Ave</Street>
+			<City>Mesa</City>
+			<State>AZ</State>
+			<Zip>85210</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.1">
+		<Name>Embassy Suites</Name>
+		<Phone>480-897-7444</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>4400</Number>
+			<Street>S Rural Rd</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85282</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Moxy</Name>
+		<Phone>480-968-3451</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>1333</Number>
+			<Street>S Rural Rd</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="2.9">
+		<Name>American Executive Inn</Name>
+		<Phone>480-964-6476</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>1554</Number>
+			<Street>W Main St</Street>
+			<City>Mesa</City>
+			<State>AZ</State>
+			<Zip>85201</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.2">
+		<Name>Hampton Inn & Suites</Name>
+		<Phone>480-941-3441</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>1415</Number>
+			<Street>N Scottsdale Rd</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Spark</Name>
+		<Phone>480-457-8181</Phone>
+		<Address NearstAirport="Mesa Gateway">
+			<Number>4470</Number>
+			<Street>S Power Rd</Street>
+			<City>Mesa</City>
+			<State>AZ</State>
+			<Zip>85212</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.4">
+		<Name>Courtyard</Name>
+		<Phone>480-351-7088</Phone>
+		<Address NearstAirport="Mesa Gateway">
+			<Number>6907</Number>
+			<Street>E Ray Rd</Street>
+			<City>Mesa</City>
+			<State>AZ</State>
+			<Zip>85212</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="2.9">
+		<Name>Motel 6</Name>
+		<Phone>480-288-8888</Phone>
+		<Address NearstAirport="Mesa Gateway">
+			<Number>251</Number>
+			<Street>E 29th Ave</Street>
+			<City>Apache Junction</City>
+			<State>AZ</State>
+			<Zip>85119</Zip>
 		</Address>
 	</Hotel>
 </Hotels>
