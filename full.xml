@@ -1,5 +1,10 @@
 <?xml version="1.0"?>
 
 <Hotels>
-	<Hotel />
+	<Hotel>
+		Name
+	</Hotel>
+	<Some>
+		thing
+	</Some>
 </Hotels>

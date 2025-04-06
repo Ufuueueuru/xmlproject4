@@ -3,7 +3,10 @@
 
 <xsd:element name="Hotels">
 	<xsd:complexType>
-		<xsd:element name="Hotel" />
+		<xsd:sequence>
+			<xsd:element name="Hotel" type="xsd:string" />
+			<xsd:element name="Some" type="xsd:string" />
+		</xsd:sequence>
 	</xsd:complexType>
 </xsd:element>
 
