@@ -3,7 +3,7 @@
 
 <xsd:element name="Hotels">
 	<xsd:complexType>
-		<xsd:element nam="Hotel" />
+		<xsd:element name="Hotel" />
 	</xsd:complexType>
 </xsd:element>
 
